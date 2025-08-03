@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://unireportz.com/">
-    <img src="https://unireportz.com/seo/og-image.png" alt="UniReportz Logo" width="300">
+    <img src="https://unireportz.com/seo/og-image.png" alt="UniReportz Logo" width="500">
   </a>
 </p>
 
