@@ -1,116 +1,85 @@
 <p align="center">
   <a href="https://unireportz.com/">
-    <img src="https://unireportz.com/seo/og-image.png" alt="UniReportz" width="300">
+    <img src="https://unireportz.com/seo/og-image.png" alt="UniReportz Logo" width="300">
   </a>
 </p>
 
-# 🚀 UniReportz
+# 🎓 UniReportz
 
-### Free & Instant Academic Documentation Generator  
-**Create professional university cover pages, class routines, and exam schedules instantly.**
+**Website:** [https://unireportz.com](https://unireportz.com)  
+**Purpose:** Generate professional academic documents instantly  
+**Status:** ✅ Live and free to use  
+**License:** [MIT](#-license)
 
-UniReportz is designed for students who want beautifully formatted academic documents—no fees, no accounts, no hassle.
+UniReportz is a simple, free, and student-friendly tool to create high-quality **cover pages**, **class routines**, and **exam schedules** in just minutes.  
+No registration. No downloads. Just fill and export.
 
 ---
+
+## 📌 Features
+
+- ✅ **Assignment & Lab Report Cover Page Generator**
+- 📅 **Class Routine Table Builder** (customizable weekdays, slots)
+- 🗓 **Exam Schedule Designer** (with auto-alignment and date formatting)
+- 🎨 Upload custom **university logos** or seals
+- 🖨 Download as **print-ready PDF** (A4 / Letter)
+- ⚡ Fast, responsive, and optimized for mobile
+
+---
+
 
 ## 🎯 Who Is It For?
 
-- **Students** who submit assignments or lab reports  
-- **Educators** seeking printable schedule formats  
-- Anyone needing **academic‑standard documents** quickly  
-  – especially useful during final exams or lab submissions
+- 🎓 **University Students** writing assignments, thesis, or reports  
+- 👩‍🏫 **Teachers and Lecturers** preparing class schedules  
+- 🧑‍💻 **Academic Coordinators** needing easy template generation  
+- 🏫 **College Staff** who need print-ready routine templates  
+- 📥 Anyone who needs simple, elegant, academic documents—fast
 
 ---
 
-## ✨ Why Choose UniReportz?
+## 💡 Why Choose UniReportz?
 
-- **Truly Free**: no sign‑up, no limitations, no watermarks  
-- **Zero Learning Curve**: choose a template, fill in details—download instantly  
-- **Mobile-First Design**: build documents seamlessly from your phone or tablet  
-- **Trusted Performance**:  
-  - SEO score of **78/100**, better than average :contentReference[oaicite:1]{index=1}  
-  - Fast loading (~0.7 s) and optimized for A4/Letter PDF export
-
-> “Create professional university cover pages, class routines and exam schedules instantly. Free tools for students to enhance academic documentation.” :contentReference[oaicite:2]{index=2}
+- 💯 **Completely Free** – no logins, no ads, no paywalls  
+- ⏱ **Quick Output** – less than 2 minutes from start to download  
+- 🖼 **Visual Preview** – real-time layout as you type  
+- 🧠 **Minimal Learning Curve** – no tools or training required  
+- 🖥 Works on **desktop, tablet, and mobile**  
+- 📄 Outputs **high-quality PDFs** that meet academic standards
 
 ---
 
-## 📌 Key Features
+## 🧭 How to Use
 
-| Feature | Why It Matters |
-|--------|----------------|
-| **Multiple Templates** | Cover pages for reports, schedules, or routines |
-| **Custom Logos/Fields** | Tailor documents with your department info, logo & course details |
-| **Instant PDF Export** | Works offline after download—ideal for print • no dependencies |
-| **Template Adaptability** | Add/edit styling (e.g. university borders or color scheme) |
-| **SEO & Speed Optimized** | Mobile‑ready, lightweight assets, caching enabled :contentReference[oaicite:3]{index=3} |
-
----
-
-## 🚪 How to Use
-
-1. Visit [unireportz.com](https://unireportz.com/)  
-2. Pick **Cover Page**, **Class Routine**, or **Exam Schedule**  
-3. Enter basic details: university, department, date, logo  
-4. Preview instantly, select PDF format, and **Download**
-
-That’s it—three minutes from blank to polished document 💼
+1. 🌐 Visit [https://unireportz.com](https://unireportz.com)
+2. 🧾 Choose a tool:
+   - **Cover Page**
+   - **Class Routine**
+   - **Exam Schedule**
+3. ✏ Fill in:
+   - University name
+   - Department, course, year
+   - Instructor or author name
+   - Add logo (optional)
+4. 🔍 Preview your formatted document
+5. ⬇ Click **Download PDF**
+6. ✅ You’re done!
 
 ---
 
+## 📄 LICENSE
 
+This project is licensed under the **MIT License**.
 
-Use them to spread the word in Slack, Telegram groups, or Discord servers.
+You are free to use, modify, and share the code or templates for personal, academic, or commercial use.
 
----
+```text
+MIT License
 
-## 🧠 Frequently Asked Questions
+Copyright (c) 2025 Tuhinx
 
-**Q: Do students need to register?**  
-**A:** Not at all—UniReportz is immediate and anonymous.
-
-**Q: Can I add my university’s seal or logo?**  
-**A:** Yes—just upload a PNG or JPG and it scales automatically.
-
-**Q: Is the output print‑ready?**  
-**A:** PDF files are tuned for A4 and Letter formats, ideal for submission or printing.
-
-**Q: Need to update your branding or add new templates?**  
-**A:** Everything is client‑side HTML/CSS/JS—templates are easily extendable.
-
----
-
-## 🎉 Get Involved
-
-While UniReportz is made for ease, you can still:
-
-- **Share feedback or request features** via Issues  
-- **Improve typography or accessibility** by contributing CSS/font enhancements  
-- **Translate static elements** to other languages (helps with outreach)
-
-✨ Your voice directly shapes this project—every suggestion counts!
-
----
-
-## ⚠️ Disclaimer
-
-- Free and open‐access only; no private or confidential data should be entered  
-- Hosted via a static front end—users are responsible for their own data  
-
-Any privacy concerns or bug reports? Please raise an Issue or email **hello@unireportz.com**
-
----
-
-## 📝 License & Attributions
-
-- 📄 Licensed under the **CC0 / MIT** license—use templates freely  
-- Logo & screenshot assets courtesy of **UniReportz** site metadata  
-
-\---
-© 2025 UniReportz · LICENSE: MIT · Website: [unireportz.com](https://unireportz.com/)
-
-
-## 📢 Promotion Toolkit
-
-Include these badges in your course website, blog or social media:
-
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the “Software”), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software...
