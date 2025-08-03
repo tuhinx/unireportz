@@ -21,7 +21,6 @@ No registration. No downloads. Just fill and export.
 - ✅ **Assignment & Lab Report Cover Page Generator**
 - 📅 **Class Routine Table Builder** (customizable weekdays, slots)
 - 🗓 **Exam Schedule Designer** (with auto-alignment and date formatting)
-- 🎨 Upload custom **university logos** or seals
 - 🖨 Download as **print-ready PDF** (A4 / Letter)
 - ⚡ Fast, responsive, and optimized for mobile
 
