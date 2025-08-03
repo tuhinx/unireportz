@@ -58,6 +58,58 @@ That’s it—three minutes from blank to polished document 💼
 
 ---
 
+
+
+Use them to spread the word in Slack, Telegram groups, or Discord servers.
+
+---
+
+## 🧠 Frequently Asked Questions
+
+**Q: Do students need to register?**  
+**A:** Not at all—UniReportz is immediate and anonymous.
+
+**Q: Can I add my university’s seal or logo?**  
+**A:** Yes—just upload a PNG or JPG and it scales automatically.
+
+**Q: Is the output print‑ready?**  
+**A:** PDF files are tuned for A4 and Letter formats, ideal for submission or printing.
+
+**Q: Need to update your branding or add new templates?**  
+**A:** Everything is client‑side HTML/CSS/JS—templates are easily extendable.
+
+---
+
+## 🎉 Get Involved
+
+While UniReportz is made for ease, you can still:
+
+- **Share feedback or request features** via Issues  
+- **Improve typography or accessibility** by contributing CSS/font enhancements  
+- **Translate static elements** to other languages (helps with outreach)
+
+✨ Your voice directly shapes this project—every suggestion counts!
+
+---
+
+## ⚠️ Disclaimer
+
+- Free and open‐access only; no private or confidential data should be entered  
+- Hosted via a static front end—users are responsible for their own data  
+
+Any privacy concerns or bug reports? Please raise an Issue or email **hello@unireportz.com**
+
+---
+
+## 📝 License & Attributions
+
+- 📄 Licensed under the **CC0 / MIT** license—use templates freely  
+- Logo & screenshot assets courtesy of **UniReportz** site metadata  
+
+\---
+© 2025 UniReportz · LICENSE: MIT · Website: [unireportz.com](https://unireportz.com/)
+
+
 ## 📢 Promotion Toolkit
 
 Include these badges in your course website, blog or social media:
