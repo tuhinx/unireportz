@@ -59,10 +59,8 @@ No registration. No downloads. Just fill and export.
    - University name
    - Department, course, year
    - Instructor or author name
-   - Add logo (optional)
-4. 🔍 Preview your formatted document
-5. ⬇ Click **Download PDF**
-6. ✅ You’re done!
+4. ⬇ Click **Download PDF**
+5. ✅ You’re done!
 
 ---
 
